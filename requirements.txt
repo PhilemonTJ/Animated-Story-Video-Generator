@@ -1,0 +1,5 @@
+google-genai
+google-generativeai
+moviepy
+Pillow
+nest_asyncio
